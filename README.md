@@ -104,11 +104,6 @@ This dashboard analyzes sales and profit distribution across regions, countries,
 - Supports customer segmentation by location
 
 ---
-
-## 🧾 Extended Product Performance Dashboard
-
-This enhanced view provides granular insights into individual product performance, including quantity sold, sales, and profit.
-
 ### 📈 Business Impact
 
 - Pinpoints high-performing and underperforming products
